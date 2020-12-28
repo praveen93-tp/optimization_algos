@@ -8,3 +8,7 @@
    4) conjugate_gradient_descent
    5) brazillia_bowrein_step_gradient_descent
    6) proximal_gradient_descent
+   7) gradient_descent_with_momentum
+   8) nesterovs_gradient_descent
+   9) adagarad
+   
